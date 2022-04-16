@@ -1,0 +1,140 @@
+.body
+{
+margin: 0%;
+}
+.container
+{
+ text-align: center;
+ position: relative;
+ margin-left: -1%;
+ background-image: url("https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80");
+ background-size:cover;   
+ background-repeat: no-repeat;          
+ width: 102%;
+ height: 1080px;
+}
+.topbar
+{  
+   width: 100%;
+   height: 68px;
+   text-align: center;
+   position: absolute; 
+   color: yellow;
+
+   font-family: serif;
+   background-color: #0a0120;
+   bottom: 92%;
+}
+.title
+{
+    margin-left: 42%;
+    width: 200px;
+}
+.logo
+{
+margin-left: -93%;
+margin-top: -4%;
+width: 100px;
+border-radius: 20px;
+}
+.bodyl
+{   padding-left: 13%;
+    margin-top: -900px;
+    position: absolute;
+    width: 30%;
+    height: 100px;
+    color: white;
+    text-decoration-style: solid;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    animation: fadeIn 5s;
+    -webkit-animation: fadeIn 5s;
+    -moz-animation: fadeIn 5s;
+    -o-animation: fadeIn 5s;
+    -ms-animation: fadeIn 5s;
+}
+.bodyp
+{
+    margin-left: -190px;
+}
+@keyframes
+ fadeIn {
+      0% {opacity:0;}
+    100% {opacity:1;}
+ }
+.cov
+{      
+    margin-left: -52%;
+    border-radius: 49px;
+    height: 300px;
+    width: 700px;
+
+}
+.para1
+{   
+    width: 1920px;
+    color: azure;
+    -webkit-text-stroke-width: 0px;
+    margin-top: 103px;
+    margin-left: -875px;   
+    font-size: 20px; 
+    font-style: italic;
+    color: rgb(42, 206, 192);
+    text-align: right;
+    text-decoration: underline;
+    
+
+   
+  }
+.insta
+{  
+    margin-left: 100px;
+   width: 110px;
+   margin-top: -13%; 
+   position: absolute;
+}
+.fb
+{
+    margin-left: 50px;
+    width: 100px;
+    margin-top: -9.6%; 
+    position: absolute;
+}
+.youtube
+{
+    margin-left: 50px;
+    width: 100px;
+    margin-top: -7%; 
+     position: absolute;
+}
+.ig
+{
+    font-size: 21px;
+    background-color: red;
+    border-radius: 8px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fbb
+{
+    font-size: 23px;
+    background-color: blue;
+    border-radius: 8px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif   ;
+}
+.y
+{
+    font-size: 26px;
+    background-color: red;
+    border-radius: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.check
+{
+    position: absolute;
+    width: 500px;
+    margin-left: 50px;
+    margin-top: -275px;
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    color: white;
+    text-decoration: underline;
+}
